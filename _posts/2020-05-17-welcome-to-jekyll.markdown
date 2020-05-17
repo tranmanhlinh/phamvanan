@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my blog"
+permalink: /wel-com-page
 date:   2020-05-17 16:42:02 +0700
 categories: jekyll update
 ---
