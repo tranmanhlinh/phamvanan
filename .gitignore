@@ -1,2 +1,5 @@
-.DS_Store
-free-licencse.pdf
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
